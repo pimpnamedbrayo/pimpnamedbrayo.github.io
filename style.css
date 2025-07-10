@@ -1,11 +1,11 @@
 body {
     margin: 0;
     padding: 0;
-    font-familly: Arial, sans-serif;
+    font-family: Arial, sans-serif;
 
-    bacground-image: url('background.jpg');
+    background-image: url('background.jpg');
     background-size: cover;
-    background-repeat: no repeat;
+    background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
 
